@@ -1,0 +1,14 @@
+# observatoire.info .gitignore file
+
+**/log/
+**/__pycache__
+**/venv
+#*.ipynb*
+.ipynb_checkpoints*
+.pytest*
+.DS_Store
+*.log
+data/*
+static/tmp/*
+.vscode
+*.local
